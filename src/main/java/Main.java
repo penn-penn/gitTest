@@ -1,3 +1,6 @@
+import java.io.*;
 public class Main {
-    //testing
+    public static void main(String[] args){
+        System.out.println("asd");
+    }
 }
